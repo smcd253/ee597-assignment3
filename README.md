@@ -2,9 +2,9 @@
 An analysis of normalized saturation throughput for slotted Aloha and p-CSMA.
 
 by<br>
-Bill Wang<tab><tab>student id:<br>
+Bill Wang            student id:<br>
 and<br>
-Spencer McDonough<tab><tab>student id:<br>
+Spencer McDonough    student id:<br>
 
 ## **Problem 1:** For slotted Aloha with 3 backlogged users, plot the boundary surface of the normalized saturation throughput region using a 3D plot.
 ![*Figure 1: Normalized Saturation Throughput for Slotted Aloha - 3 Users*](p1-slotted_aloha_3_users.png)
